@@ -1,6 +1,6 @@
 {
   "name": "@kingstinct/react-native-ibeacon-simulator",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "A cool package for simulate your iOS devices as beacon",
   "author": "Robert Herber",
   "nativePackage": true,
