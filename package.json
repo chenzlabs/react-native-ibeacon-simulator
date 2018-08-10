@@ -1,12 +1,12 @@
 {
-  "name": "@kingstinct/react-native-ibeacon-simulator",
+  "name": "react-native-ibeacon-simulator",
   "version": "1.0.12",
   "description": "A cool package for simulate your iOS devices as beacon",
-  "author": "Robert Herber",
+  "author": "machenmusik",
   "nativePackage": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robertherber/react-native-ibeacon-simulator.git"
+    "url": "git+https://github.com/chenzlabs/react-native-ibeacon-simulator.git"
   },
   "keywords": [
     "react-native",
